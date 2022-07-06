@@ -1,7 +1,7 @@
 # FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE 
 Hi I made this project (Snake Game) during the Training Program conducted by <b> TechWave
 </b>.
-##About the project
+##About the project;
 It is using Python modules like turtle, use the concept of OOPS (inheritance) and various functions for body of snake , Scoreboard, Food and movement of Snake.
 <br>
 ## Tech Stack used;
